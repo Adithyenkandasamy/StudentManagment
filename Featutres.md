@@ -1,0 +1,4 @@
+-  student will register
+- login page
+- landing page
+- 
